@@ -1,2 +1,3 @@
 Hola solo paso por aqui para probar mis cositas de Git.
-Fue genial porque ya se como armar un arbol modificado de codigo plano (^-^)/
+Fue genial porque ya se como armar un arbol modificado de codigo plano. 
+\(^-^)/
