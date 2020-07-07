@@ -1,1 +1,2 @@
-Hola solo paso por aqui para probar mis cositas de Git
+Hola solo paso por aqui para probar mis cositas de Git.
+Fue re severo porque ya se como armar un arbol modificado de codigo plano (^-^)/
